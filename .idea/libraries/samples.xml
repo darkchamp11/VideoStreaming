@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="samples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Packages/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
